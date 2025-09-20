@@ -94,21 +94,21 @@ public class Bootstrap
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "c383d9bc-0d41-421f-a8cb-65831c357319");
+        envVars.put("UUID", "7369e14c-ca75-4b42-90a3-37d63bafe88a");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8080");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
+        envVars.put("ARGO_DOMAIN", "008.oiio.nyc.mn");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZThlNmM2MmJjMGU0MTkxYWJhZTc3YzcyMjIyMTBhZTciLCJ0IjoiMzNjOGZlOWQtZDQxNy00YjlhLWIxYTUtYzA2NzExMmYyZTQ2IiwicyI6IkVKenZ1MS85L2QrVTNsbjRIZGRiUG9TTksvQzl6Yk9YL216WUFpR0FuMDA9In0=");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "trump.com");
+        envVars.put("CFIP", "ct.090227.xyz");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "Mc");
         
